@@ -1,0 +1,2 @@
+include ':ACWeather'
+rootProject.name = "AC Weather"
